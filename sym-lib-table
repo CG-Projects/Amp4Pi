@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MonoAmplifier)(type Legacy)(uri C:/Users/CG/Documents/KiCad/libs/CG_Libs/MonoAmplifier.lib)(options "")(descr ""))
+)
