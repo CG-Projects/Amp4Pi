@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "Raspberry Pi Zero W")(type KiCad)(uri "${KICAD_BASE_FOLDER}/libs/CG_Lib/KiCad-Templates/Kicad Templates/Raspberry Pi Zero W")(options "")(descr ""))
-)

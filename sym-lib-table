@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name MonoAmplifier)(type Legacy)(uri C:/Users/CG/Documents/KiCad/libs/CG_Libs/MonoAmplifier.lib)(options "")(descr ""))
+  (lib (name Raspberry_Pi_Zero_W-cache)(type Legacy)(uri "${KICAD_BASE_FOLDER}/projects/Amp4Pi/lib_sch/Raspberry Pi Zero W-cache.lib")(options "")(descr ""))
 )
